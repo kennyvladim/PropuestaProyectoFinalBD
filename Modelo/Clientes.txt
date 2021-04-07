@@ -1,0 +1,10 @@
+11111111,Juan,Rosales,Lugo,Calle 1,361-1111
+22222222,Roberto,Perez,Suarez,Calle 2,232-2222
+33333333,Luis,Rodriguez,Benavente,Calle 3,778-3333
+44444444,Andrea,Luna,Zorrilla,Calle 4,351-4444
+55555555,Ruth,Corrales,Rivera,Calle 5,491-5555
+66666666,Jorge,Benavides,Hurtado,Calle 6,534-6666
+77777777,Pedro,Pastrana,Lugo,Calle 7,238-7777
+AA,AA,AA,AA,AA,AA
+BB,BB,BB,BB,BB,BB
+CC,CC,CC,CC,CC,CC
